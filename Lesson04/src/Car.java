@@ -1,8 +1,8 @@
 public class Car {
-    int weels;
+    int wheels;
     int doors;
-    public void setWeels(int weels) {
-        this.weels = weels;
+    public void setWheels(int wheels) {
+        this.wheels = wheels;
     }
 
     public void setDoors(int doors) {
